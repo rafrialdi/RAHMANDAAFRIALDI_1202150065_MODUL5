@@ -1,0 +1,4 @@
+#Sun Mar 25 15:53:22 ICT 2018
+base.0=F\:\\TUGASRPL\\RAHMANDAAFRIALDI_1202150065_MODUL5\\RAHMANDAAFRIALDI_1202150065_MODUL5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
